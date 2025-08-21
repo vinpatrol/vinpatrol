@@ -7,7 +7,7 @@
 
 
 <h4 align="center">I'm an aspiring developer in areas like machine learning, web, AI tools. My journey in technology is driven by a desire to build efficient solutions to a variety of problems. I believe in the power of code to create positive change and love collaborating with others to bring new ideas to life..</h4>
-<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"
+<img align="right" alt="coding" width="300" height="180" style="border-radius: 15" src="./coding.gif" />
 
 🌱 I’m currently learning **Backend Dev**
 
